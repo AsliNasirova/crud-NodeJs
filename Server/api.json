@@ -1,0 +1,94 @@
+[
+    {
+    "id": 1,
+    "image": "https://cottonon.com/on/demandware.static/-/Sites-catalog-master-women/default/dw0729b976/2053953/2053953-02-2.jpg",
+    "info": "gray",
+    "name": "nike",
+    "price": "150"
+  },
+  {
+    "id": 2,
+    "image": "https://images.asos-media.com/products/pullbear-join-life-hoodie-in-yellow/23436353-1-yellow?$n_640w$&wid=513&fit=constrain",
+    "info": "yellow",
+    "name": "zara",
+    "price": "100"
+  },
+  {
+    "id": 3,
+    "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/sweatshirt/2/q/5/m-bw-hdo1-bellwit-original-imagkb3zgmxgkakh.jpeg?q=20",
+    "info": "red",
+    "name": "adidas",
+    "price": "46"
+  },
+  {
+    "id": 5,
+    "image": "https://www.pro5usa.com/cdn/shop/products/black_hood_shop_grande.jpg?v=1527322942",
+    "info": "black",
+    "name": "puma",
+    "price": "754"
+  },
+  {
+    "id": 6,
+    "image": "https://inyourshoe.com/cdn/shop/products/blue-hoodie-plain-hoodies-in-your-shoe-243676.jpg?v=1668057716&width=1946",
+    "info": "blue",
+    "name": "next",
+    "price": "753"
+  },
+  {
+    "id": 7,
+    "image": "https://eu.representclo.com/cdn/shop/products/SCALED__0010_54STUDIOSHOOT1598_0003_54STUDIOSHOOT12112_1200x1200.jpg?v=1685533313",
+    "info": "green",
+    "name": "gucci",
+    "price": "8564"
+  },
+  {
+    "id": 8,
+    "image": "https://cdn-img.prettylittlething.com/c/a/f/2/caf26e8ef271768b4a8e7caa1e33f86193c0989e_cms6543_1.jpg",
+    "info": "pink",
+    "name": "bershka",
+    "price": "738"
+  },
+  {
+    "id": 9,
+    "image": "https://inyourshoe.com/cdn/shop/products/purple-hoodie-plain-hoodies-in-your-shoe-629478.jpg?v=1668057294",
+    "info": "purple",
+    "name": "valentino",
+    "price": "64"
+  },
+  {
+    "id": 10,
+    "image": "https://inyourshoe.com/cdn/shop/products/white-hoodie-plain-hoodies-in-your-shoe-879927.jpg?v=1668057935",
+    "info": "white",
+    "name": "louis vuitton",
+    "price": "457"
+  },
+  {
+    "id": 11,
+    "image": "https://getketchadmin.getketch.com/product/8905745239697/660/KHSS000101_1.jpg",
+    "info": "brown",
+    "name": "cartier",
+    "price": "368"
+  },
+  {
+    "id": 12,
+    "image": "https://bronzesnake.com/cdn/shop/files/230627_BRONZE8396.jpg?v=1687829136",
+    "info": "coral",
+    "name": "hermes",
+    "price": "196"
+  },
+  {
+    "id": 13,
+    "image": "https://rukminim1.flixcart.com/image/850/800/xif0q/shopsy-shoe/6/r/b/7-duggu40-foxi-fashion-black-original-imaggtsvwam2tqvm.jpeg?q=90",
+    "info": "black",
+    "name": "shoes",
+    "price": "129"
+  },
+  {
+    "id": 14,
+    "image": "https://assets.ajio.com/medias/sys_master/root/20230621/s8f6/64928ba5d55b7d0c63909f51/-473Wx593H-464114535-white-MODEL8.jpg",
+    "info": "white",
+    "name": "shoes",
+    "price": "122"
+  }
+
+]
